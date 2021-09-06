@@ -1,6 +1,6 @@
 
 ### About
-- Software engineering student.
+- Software Engineer.
 
 ### Projects
 <p align="center">
